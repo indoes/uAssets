@@ -11,7 +11,8 @@
 ! in the forums (https://forums.lanik.us/) or via e-mail (easylist.subscription+anti@gmail.com).
 ! Please check our guidelines before reporting: https://easylist.to/2013/05/10/anti-adblock-guide-for-site-admins
 !
-!
+!-----------------General tracking systems-----------------!
+! *** easylist:easyprivacy/antiadblocklist.txt ***
 !
 /adb-watch.
 /adb_script/*
