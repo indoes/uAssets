@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: Sg8vbBIBsk/VHeeX+aBwbA
 ! Version: 202210071331
-! Title: Adblock Warning Removal List
+! Title: Adblock Anti-Adblock List
 ! Last modified: 07 Oct 2022 13:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
